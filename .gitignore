@@ -1,0 +1,16 @@
+#####OS X temporary files that should never be committed
+*.DS_Store
+.DS_Store
+*.swp
+*.lock
+profile
+
+# Dependency directories
+node_modules/
+
+# next.js build output
+.next
+next/
+
+# dotenv environment variables file
+.env
